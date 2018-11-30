@@ -8,11 +8,7 @@
     <version>1.0.0-SNAPSHOT</version>           
    <distributionManagement>
             
-            
-            
-            
-            
-        <repository>
+       <repository>
             <id>maven-releases</id>
             <name>Release Repository</name>
             <url>http://104.42.158.211:8081/repository/maven-releases/</url>

@@ -8,9 +8,7 @@
     <version>1.0.0-SNAPSHOT</version>
 
 
-         
-         
-         
+                
    <distributionManagement>
         <repository>
             <id>maven-releases</id>

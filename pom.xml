@@ -15,6 +15,7 @@
             <url>http://40.112.192.74:8081/repository/maven-releases/</url>
         </repository>
             
+            
         <snapshotRepository>
             <id>maven-snapshots</id>
             <name>Snapshot Repository</name>
